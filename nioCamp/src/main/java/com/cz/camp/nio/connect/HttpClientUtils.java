@@ -1,4 +1,4 @@
-package com.cz.camp.nio;
+package com.cz.camp.nio.connect;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.client.methods.CloseableHttpResponse;
